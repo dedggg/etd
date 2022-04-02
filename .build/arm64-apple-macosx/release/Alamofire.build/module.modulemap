@@ -1,0 +1,4 @@
+module Alamofire {
+    header "/Users/mwsr20/Downloads/library-main/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire-Swift.h"
+    requires objc
+}

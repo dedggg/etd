@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/Alamofire/Alamofire" : {
+        "repositoryURL" : "https://github.com/Alamofire/Alamofire",
+        "subpath" : "Alamofire-11b78eba"
+      }
+    }
+  },
+  "version" : 1
+}
